@@ -3,6 +3,7 @@ The rainbow
 Purple
 Pink
 Orange
+Yellow
 Blue
 Red
 Green
