@@ -5,7 +5,6 @@ Pink
 Orange
 Yellow
 Blue //
-computer
 The Unicorn
 Brown
 Red
